@@ -48,6 +48,8 @@ const dict = {
     back: "Back",
     createProfile: "Create your profile",
     continue: "Continue",
+    saveChanges: "Save changes",
+    saved: "Saved",
     demoMode:
       "Demo mode — connect an AI provider to power chat. Set AI_BASE_URL & AI_API_KEY in .env.",
   },
@@ -98,6 +100,8 @@ const dict = {
     back: "ย้อนกลับ",
     createProfile: "สร้างข้อมูลโปรไฟล์",
     continue: "ถัดไป",
+    saveChanges: "บันทึกการเปลี่ยนแปลง",
+    saved: "บันทึกแล้ว",
     demoMode:
       "โหมดสาธิต — เชื่อมต่อผู้ให้บริการ AI เพื่อให้แชททำงาน ตั้ง AI_BASE_URL และ AI_API_KEY ใน .env",
   },
